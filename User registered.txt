@@ -1,2 +1,5 @@
 E-Mail a.gmail.com
 Password: 123456
+New user:
+E-Mail:
+Password
