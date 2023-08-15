@@ -1,1 +1,2 @@
 Creat a test automation test to user delete
+Check again if the user is deleted
